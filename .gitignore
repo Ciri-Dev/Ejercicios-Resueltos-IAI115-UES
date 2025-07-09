@@ -1,0 +1,33 @@
+# Archivos generados por Visual Studio
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# Archivos de compilación
+bin/
+obj/
+Build/
+out/
+
+# Archivos de logs y temporales
+*.log
+*.tmp
+*.bak
+
+# Archivos generados por el sistema
+Thumbs.db
+Desktop.ini
+
+# Configuraciones locales
+*.vscode/
+*.DS_Store
+
+# Archivos de publicación y empaquetado
+*.publish/
+*.zip
+*.tar.gz
+*.nupkg
+
+# Archivos de dependencia
+packages/
